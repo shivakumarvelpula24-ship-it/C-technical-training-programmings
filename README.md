@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shivakumarvelpula24-ship-it/C-technical-training-programmings/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/shivakumarvelpula24-ship-it/C-technical-training-programmings/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
